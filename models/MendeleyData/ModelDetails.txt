@@ -1,0 +1,867 @@
+
+
+#####################################################
+
+features_14.csv
+Class                          : BoostedTreesClassifier
+
+Schema
+------
+Number of examples             : 1102
+Number of feature columns      : 60
+Number of unpacked features    : 60
+Number of classes              : 4
+
+Settings
+--------
+Number of trees                : 40
+Max tree depth                 : 6
+Training time (sec)            : 0.0924
+Training accuracy              : 1.0
+Validation accuracy            : 1.0
+Training log_loss              : 0.0514
+Validation log_loss            : 0.0506
+Training auc                   : 1.0
+Validation auc                 : 1.0
+
+
+#####################################################
+
+sero_features_10.csv
+Class                          : BoostedTreesClassifier
+
+Schema
+------
+Number of examples             : 1102
+Number of feature columns      : 60
+Number of unpacked features    : 60
+Number of classes              : 4
+
+Settings
+--------
+Number of trees                : 40
+Max tree depth                 : 6
+Training time (sec)            : 0.1257
+Training accuracy              : 1.0
+Validation accuracy            : 1.0
+Training log_loss              : 0.0514
+Validation log_loss            : 0.0512
+Training auc                   : 1.0
+Validation auc                 : 1.0
+
+
+#####################################################
+
+sero_features_11.csv
+Class                          : BoostedTreesClassifier
+
+Schema
+------
+Number of examples             : 1102
+Number of feature columns      : 60
+Number of unpacked features    : 60
+Number of classes              : 4
+
+Settings
+--------
+Number of trees                : 40
+Max tree depth                 : 6
+Training time (sec)            : 0.0986
+Training accuracy              : 1.0
+Validation accuracy            : 1.0
+Training log_loss              : 0.0514
+Validation log_loss            : 0.0515
+Training auc                   : 1.0
+Validation auc                 : 1.0
+
+
+#####################################################
+
+sero_features_12.csv
+Class                          : BoostedTreesClassifier
+
+Schema
+------
+Number of examples             : 1102
+Number of feature columns      : 60
+Number of unpacked features    : 60
+Number of classes              : 4
+
+Settings
+--------
+Number of trees                : 40
+Max tree depth                 : 6
+Training time (sec)            : 0.1053
+Training accuracy              : 1.0
+Validation accuracy            : 1.0
+Training log_loss              : 0.0514
+Validation log_loss            : 0.0506
+Training auc                   : 1.0
+Validation auc                 : 1.0
+
+
+#####################################################
+
+sero_features_13.csv
+Class                          : BoostedTreesClassifier
+
+Schema
+------
+Number of examples             : 1102
+Number of feature columns      : 60
+Number of unpacked features    : 60
+Number of classes              : 4
+
+Settings
+--------
+Number of trees                : 40
+Max tree depth                 : 6
+Training time (sec)            : 0.0945
+Training accuracy              : 1.0
+Validation accuracy            : 1.0
+Training log_loss              : 0.0514
+Validation log_loss            : 0.0505
+Training auc                   : 1.0
+Validation auc                 : 1.0
+
+
+#####################################################
+
+sero_features_15.csv
+Class                          : BoostedTreesClassifier
+
+Schema
+------
+Number of examples             : 1102
+Number of feature columns      : 60
+Number of unpacked features    : 60
+Number of classes              : 4
+
+Settings
+--------
+Number of trees                : 40
+Max tree depth                 : 6
+Training time (sec)            : 0.0912
+Training accuracy              : 1.0
+Validation accuracy            : 1.0
+Training log_loss              : 0.0514
+Validation log_loss            : 0.0518
+Training auc                   : 1.0
+Validation auc                 : 1.0
+
+
+#####################################################
+
+sero_features_16.csv
+Class                          : BoostedTreesClassifier
+
+Schema
+------
+Number of examples             : 1102
+Number of feature columns      : 60
+Number of unpacked features    : 60
+Number of classes              : 4
+
+Settings
+--------
+Number of trees                : 40
+Max tree depth                 : 6
+Training time (sec)            : 0.094
+Training accuracy              : 1.0
+Validation accuracy            : 1.0
+Training log_loss              : 0.0514
+Validation log_loss            : 0.0519
+Training auc                   : 1.0
+Validation auc                 : 1.0
+
+
+#####################################################
+
+sero_features_17.csv
+Class                          : BoostedTreesClassifier
+
+Schema
+------
+Number of examples             : 1102
+Number of feature columns      : 60
+Number of unpacked features    : 60
+Number of classes              : 4
+
+Settings
+--------
+Number of trees                : 40
+Max tree depth                 : 6
+Training time (sec)            : 0.1012
+Training accuracy              : 1.0
+Validation accuracy            : 1.0
+Training log_loss              : 0.0514
+Validation log_loss            : 0.0506
+Training auc                   : 1.0
+Validation auc                 : 1.0
+
+
+#####################################################
+
+sero_features_18.csv
+Class                          : BoostedTreesClassifier
+
+Schema
+------
+Number of examples             : 1102
+Number of feature columns      : 60
+Number of unpacked features    : 60
+Number of classes              : 4
+
+Settings
+--------
+Number of trees                : 40
+Max tree depth                 : 6
+Training time (sec)            : 0.1077
+Training accuracy              : 1.0
+Validation accuracy            : 1.0
+Training log_loss              : 0.0514
+Validation log_loss            : 0.0514
+Training auc                   : 1.0
+Validation auc                 : 1.0
+
+
+#####################################################
+
+sero_features_19.csv
+Class                          : BoostedTreesClassifier
+
+Schema
+------
+Number of examples             : 1102
+Number of feature columns      : 60
+Number of unpacked features    : 60
+Number of classes              : 4
+
+Settings
+--------
+Number of trees                : 40
+Max tree depth                 : 6
+Training time (sec)            : 0.1282
+Training accuracy              : 1.0
+Validation accuracy            : 1.0
+Training log_loss              : 0.0514
+Validation log_loss            : 0.0497
+Training auc                   : 1.0
+Validation auc                 : 1.0
+
+
+#####################################################
+
+sero_features_20.csv
+Class                          : BoostedTreesClassifier
+
+Schema
+------
+Number of examples             : 1102
+Number of feature columns      : 60
+Number of unpacked features    : 60
+Number of classes              : 4
+
+Settings
+--------
+Number of trees                : 40
+Max tree depth                 : 6
+Training time (sec)            : 0.105
+Training accuracy              : 1.0
+Validation accuracy            : 1.0
+Training log_loss              : 0.0514
+Validation log_loss            : 0.0519
+Training auc                   : 1.0
+Validation auc                 : 1.0
+
+
+#####################################################
+
+sero_features_4.csv
+Class                          : BoostedTreesClassifier
+
+Schema
+------
+Number of examples             : 1102
+Number of feature columns      : 60
+Number of unpacked features    : 60
+Number of classes              : 4
+
+Settings
+--------
+Number of trees                : 40
+Max tree depth                 : 6
+Training time (sec)            : 0.0905
+Training accuracy              : 1.0
+Validation accuracy            : 1.0
+Training log_loss              : 0.0514
+Validation log_loss            : 0.0502
+Training auc                   : 1.0
+Validation auc                 : 1.0
+
+
+#####################################################
+
+sero_features_5.csv
+Class                          : BoostedTreesClassifier
+
+Schema
+------
+Number of examples             : 1102
+Number of feature columns      : 60
+Number of unpacked features    : 60
+Number of classes              : 4
+
+Settings
+--------
+Number of trees                : 40
+Max tree depth                 : 6
+Training time (sec)            : 0.0911
+Training accuracy              : 1.0
+Validation accuracy            : 1.0
+Training log_loss              : 0.0514
+Validation log_loss            : 0.0514
+Training auc                   : 1.0
+Validation auc                 : 1.0
+
+
+#####################################################
+
+sero_features_6.csv
+Class                          : BoostedTreesClassifier
+
+Schema
+------
+Number of examples             : 1102
+Number of feature columns      : 60
+Number of unpacked features    : 60
+Number of classes              : 4
+
+Settings
+--------
+Number of trees                : 40
+Max tree depth                 : 6
+Training time (sec)            : 0.0908
+Training accuracy              : 1.0
+Validation accuracy            : 1.0
+Training log_loss              : 0.0514
+Validation log_loss            : 0.0518
+Training auc                   : 1.0
+Validation auc                 : 1.0
+
+
+#####################################################
+
+sero_features_7.csv
+Class                          : BoostedTreesClassifier
+
+Schema
+------
+Number of examples             : 1102
+Number of feature columns      : 60
+Number of unpacked features    : 60
+Number of classes              : 4
+
+Settings
+--------
+Number of trees                : 40
+Max tree depth                 : 6
+Training time (sec)            : 0.1095
+Training accuracy              : 1.0
+Validation accuracy            : 1.0
+Training log_loss              : 0.0514
+Validation log_loss            : 0.0515
+Training auc                   : 1.0
+Validation auc                 : 1.0
+
+
+#####################################################
+
+sero_features_8.csv
+Class                          : BoostedTreesClassifier
+
+Schema
+------
+Number of examples             : 1102
+Number of feature columns      : 60
+Number of unpacked features    : 60
+Number of classes              : 4
+
+Settings
+--------
+Number of trees                : 40
+Max tree depth                 : 6
+Training time (sec)            : 0.1014
+Training accuracy              : 1.0
+Validation accuracy            : 1.0
+Training log_loss              : 0.0514
+Validation log_loss            : 0.0512
+Training auc                   : 1.0
+Validation auc                 : 1.0
+
+
+#####################################################
+
+sero_features_9.csv
+Class                          : BoostedTreesClassifier
+
+Schema
+------
+Number of examples             : 1102
+Number of feature columns      : 60
+Number of unpacked features    : 60
+Number of classes              : 4
+
+Settings
+--------
+Number of trees                : 40
+Max tree depth                 : 6
+Training time (sec)            : 0.1069
+Training accuracy              : 1.0
+Validation accuracy            : 1.0
+Training log_loss              : 0.0514
+Validation log_loss            : 0.0514
+Training auc                   : 1.0
+Validation auc                 : 1.0
+
+
+#####################################################
+
+features_14.csv
+
+Class                          : BoostedTreesClassifier
+
+Schema
+------
+Number of examples             : 1102
+Number of feature columns      : 60
+Number of unpacked features    : 60
+Number of classes              : 4
+
+Settings
+--------
+Number of trees                : 40
+Max tree depth                 : 6
+Training time (sec)            : 0.0915
+Training accuracy              : 1.0
+Validation accuracy            : 1.0
+Training log_loss              : 0.0514
+Validation log_loss            : 0.0514
+Training auc                   : 1.0
+Validation auc                 : 1.0
+
+
+#####################################################
+
+sero_features_10.csv
+
+Class                          : BoostedTreesClassifier
+
+Schema
+------
+Number of examples             : 1102
+Number of feature columns      : 60
+Number of unpacked features    : 60
+Number of classes              : 4
+
+Settings
+--------
+Number of trees                : 40
+Max tree depth                 : 6
+Training time (sec)            : 0.0909
+Training accuracy              : 1.0
+Validation accuracy            : 1.0
+Training log_loss              : 0.0514
+Validation log_loss            : 0.0516
+Training auc                   : 1.0
+Validation auc                 : 1.0
+
+
+#####################################################
+
+sero_features_11.csv
+
+Class                          : BoostedTreesClassifier
+
+Schema
+------
+Number of examples             : 1102
+Number of feature columns      : 60
+Number of unpacked features    : 60
+Number of classes              : 4
+
+Settings
+--------
+Number of trees                : 40
+Max tree depth                 : 6
+Training time (sec)            : 0.0961
+Training accuracy              : 1.0
+Validation accuracy            : 1.0
+Training log_loss              : 0.0514
+Validation log_loss            : 0.0508
+Training auc                   : 1.0
+Validation auc                 : 1.0
+
+
+#####################################################
+
+sero_features_12.csv
+
+Class                          : BoostedTreesClassifier
+
+Schema
+------
+Number of examples             : 1102
+Number of feature columns      : 60
+Number of unpacked features    : 60
+Number of classes              : 4
+
+Settings
+--------
+Number of trees                : 40
+Max tree depth                 : 6
+Training time (sec)            : 0.0995
+Training accuracy              : 1.0
+Validation accuracy            : 1.0
+Training log_loss              : 0.0514
+Validation log_loss            : 0.0515
+Training auc                   : 1.0
+Validation auc                 : 1.0
+
+
+#####################################################
+
+sero_features_13.csv
+
+Class                          : BoostedTreesClassifier
+
+Schema
+------
+Number of examples             : 1102
+Number of feature columns      : 60
+Number of unpacked features    : 60
+Number of classes              : 4
+
+Settings
+--------
+Number of trees                : 40
+Max tree depth                 : 6
+Training time (sec)            : 0.1285
+Training accuracy              : 1.0
+Validation accuracy            : 1.0
+Training log_loss              : 0.0514
+Validation log_loss            : 0.0509
+Training auc                   : 1.0
+Validation auc                 : 1.0
+
+
+#####################################################
+
+sero_features_15.csv
+
+Class                          : BoostedTreesClassifier
+
+Schema
+------
+Number of examples             : 1102
+Number of feature columns      : 60
+Number of unpacked features    : 60
+Number of classes              : 4
+
+Settings
+--------
+Number of trees                : 40
+Max tree depth                 : 6
+Training time (sec)            : 0.0929
+Training accuracy              : 1.0
+Validation accuracy            : 1.0
+Training log_loss              : 0.0514
+Validation log_loss            : 0.051
+Training auc                   : 1.0
+Validation auc                 : 1.0
+
+
+#####################################################
+
+sero_features_16.csv
+
+Class                          : BoostedTreesClassifier
+
+Schema
+------
+Number of examples             : 1102
+Number of feature columns      : 60
+Number of unpacked features    : 60
+Number of classes              : 4
+
+Settings
+--------
+Number of trees                : 40
+Max tree depth                 : 6
+Training time (sec)            : 0.0943
+Training accuracy              : 1.0
+Validation accuracy            : 1.0
+Training log_loss              : 0.0514
+Validation log_loss            : 0.0519
+Training auc                   : 1.0
+Validation auc                 : 1.0
+
+
+#####################################################
+
+sero_features_17.csv
+
+Class                          : BoostedTreesClassifier
+
+Schema
+------
+Number of examples             : 1102
+Number of feature columns      : 60
+Number of unpacked features    : 60
+Number of classes              : 4
+
+Settings
+--------
+Number of trees                : 40
+Max tree depth                 : 6
+Training time (sec)            : 0.0938
+Training accuracy              : 1.0
+Validation accuracy            : 1.0
+Training log_loss              : 0.0514
+Validation log_loss            : 0.051
+Training auc                   : 1.0
+Validation auc                 : 1.0
+
+
+#####################################################
+
+sero_features_18.csv
+
+Class                          : BoostedTreesClassifier
+
+Schema
+------
+Number of examples             : 1102
+Number of feature columns      : 60
+Number of unpacked features    : 60
+Number of classes              : 4
+
+Settings
+--------
+Number of trees                : 40
+Max tree depth                 : 6
+Training time (sec)            : 0.1017
+Training accuracy              : 1.0
+Validation accuracy            : 1.0
+Training log_loss              : 0.0514
+Validation log_loss            : 0.0499
+Training auc                   : 1.0
+Validation auc                 : 1.0
+
+
+#####################################################
+
+sero_features_19.csv
+
+Class                          : BoostedTreesClassifier
+
+Schema
+------
+Number of examples             : 1102
+Number of feature columns      : 60
+Number of unpacked features    : 60
+Number of classes              : 4
+
+Settings
+--------
+Number of trees                : 40
+Max tree depth                 : 6
+Training time (sec)            : 0.092
+Training accuracy              : 1.0
+Validation accuracy            : 1.0
+Training log_loss              : 0.0514
+Validation log_loss            : 0.0512
+Training auc                   : 1.0
+Validation auc                 : 1.0
+
+
+#####################################################
+
+sero_features_20.csv
+
+Class                          : BoostedTreesClassifier
+
+Schema
+------
+Number of examples             : 1102
+Number of feature columns      : 60
+Number of unpacked features    : 60
+Number of classes              : 4
+
+Settings
+--------
+Number of trees                : 40
+Max tree depth                 : 6
+Training time (sec)            : 0.0959
+Training accuracy              : 1.0
+Validation accuracy            : 1.0
+Training log_loss              : 0.0514
+Validation log_loss            : 0.0512
+Training auc                   : 1.0
+Validation auc                 : 1.0
+
+
+#####################################################
+
+sero_features_4.csv
+
+Class                          : BoostedTreesClassifier
+
+Schema
+------
+Number of examples             : 1102
+Number of feature columns      : 60
+Number of unpacked features    : 60
+Number of classes              : 4
+
+Settings
+--------
+Number of trees                : 40
+Max tree depth                 : 6
+Training time (sec)            : 0.0947
+Training accuracy              : 1.0
+Validation accuracy            : 1.0
+Training log_loss              : 0.0514
+Validation log_loss            : 0.0501
+Training auc                   : 1.0
+Validation auc                 : 1.0
+
+
+#####################################################
+
+sero_features_5.csv
+
+Class                          : BoostedTreesClassifier
+
+Schema
+------
+Number of examples             : 1102
+Number of feature columns      : 60
+Number of unpacked features    : 60
+Number of classes              : 4
+
+Settings
+--------
+Number of trees                : 40
+Max tree depth                 : 6
+Training time (sec)            : 0.0979
+Training accuracy              : 1.0
+Validation accuracy            : 1.0
+Training log_loss              : 0.0514
+Validation log_loss            : 0.0508
+Training auc                   : 1.0
+Validation auc                 : 1.0
+
+
+#####################################################
+
+sero_features_6.csv
+
+Class                          : BoostedTreesClassifier
+
+Schema
+------
+Number of examples             : 1102
+Number of feature columns      : 60
+Number of unpacked features    : 60
+Number of classes              : 4
+
+Settings
+--------
+Number of trees                : 40
+Max tree depth                 : 6
+Training time (sec)            : 0.0982
+Training accuracy              : 1.0
+Validation accuracy            : 1.0
+Training log_loss              : 0.0514
+Validation log_loss            : 0.0509
+Training auc                   : 1.0
+Validation auc                 : 1.0
+
+
+#####################################################
+
+sero_features_7.csv
+
+Class                          : BoostedTreesClassifier
+
+Schema
+------
+Number of examples             : 1102
+Number of feature columns      : 60
+Number of unpacked features    : 60
+Number of classes              : 4
+
+Settings
+--------
+Number of trees                : 40
+Max tree depth                 : 6
+Training time (sec)            : 0.1476
+Training accuracy              : 1.0
+Validation accuracy            : 1.0
+Training log_loss              : 0.0514
+Validation log_loss            : 0.0511
+Training auc                   : 1.0
+Validation auc                 : 1.0
+
+
+#####################################################
+
+sero_features_8.csv
+
+Class                          : BoostedTreesClassifier
+
+Schema
+------
+Number of examples             : 1102
+Number of feature columns      : 60
+Number of unpacked features    : 60
+Number of classes              : 4
+
+Settings
+--------
+Number of trees                : 40
+Max tree depth                 : 6
+Training time (sec)            : 0.0912
+Training accuracy              : 1.0
+Validation accuracy            : 1.0
+Training log_loss              : 0.0514
+Validation log_loss            : 0.0504
+Training auc                   : 1.0
+Validation auc                 : 1.0
+
+
+#####################################################
+
+sero_features_9.csv
+
+Class                          : BoostedTreesClassifier
+
+Schema
+------
+Number of examples             : 1102
+Number of feature columns      : 60
+Number of unpacked features    : 60
+Number of classes              : 4
+
+Settings
+--------
+Number of trees                : 40
+Max tree depth                 : 6
+Training time (sec)            : 0.1048
+Training accuracy              : 1.0
+Validation accuracy            : 1.0
+Training log_loss              : 0.0514
+Validation log_loss            : 0.0503
+Training auc                   : 1.0
+Validation auc                 : 1.0
