@@ -16,7 +16,7 @@
   3. Sudden Left</br>
   4. Sudden Right</br>
   5. Normal</br>
-Link: https://data.mendeley.com/datasets/jj3tw8kj6h/2 </br>
+#### Link: https://data.mendeley.com/datasets/jj3tw8kj6h/2 </br>
 
 ### 2. Virginia Data </br>
 #### Size: 372064x76 </br>
@@ -31,7 +31,7 @@ Link: https://data.mendeley.com/datasets/jj3tw8kj6h/2 </br>
   8. Break (On/Off)</br>
   9. Turn Signal State (Indicator)</br>
   10. Lights</br>
-### Classes:</br>
+#### Classes:</br>
   1. No-Crash</br>
   2. Crash</br>
-Link: https://dataverse.vtti.vt.edu/dataset.xhtml?persistentId=doi:10.15787/VTT1/CEU6RB </br>
+#### Link: https://dataverse.vtti.vt.edu/dataset.xhtml?persistentId=doi:10.15787/VTT1/CEU6RB </br>
