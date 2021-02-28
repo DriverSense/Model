@@ -2,8 +2,8 @@
 ## Model for Driver Behavior Based on Sensor Readings
 Datasets-</br>
 1. Mendeley Dataset </br>
-Size: 1114x7</br>
-Features: </br>
+  Size: 1114x7</br>
+  Features: </br>
   1. Gyroscope- X axis</br>
   2. Gyroscope- Y axis</br>
   3. Gyroscope- Z axis</br>
