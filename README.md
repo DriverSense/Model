@@ -1,7 +1,7 @@
 # Model
 ## Model for Driver Behavior Based on Sensor Readings
 Datasets-</br>
-1. Mendeley Dataset </br>
+### 1. Mendeley Dataset </br>
   Size: 1114x7</br>
   Features: </br>
   1. Gyroscope- X axis</br>
@@ -18,7 +18,7 @@ Classes:</br>
   5. Normal</br>
 Link: https://data.mendeley.com/datasets/jj3tw8kj6h/2 </br>
 
-2. Virginia Data </br>
+### 2. Virginia Data </br>
 Size: 372064x76 </br>
 Features: </br>
   1. Gas Pedal</br>
